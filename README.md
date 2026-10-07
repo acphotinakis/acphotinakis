@@ -1,71 +1,75 @@
-# About Me:
-Working on a trading simulator for stocks, called TradeSync<br>🚗 Learning more about AI & ML, & how to apply them to real world problems as well as algorithmic trading<br>🏬 Studying psychology in Croatia will deepen my understanding of human cognition and behavior, providing valuable insights into designing more intuitive and human-centric AI and machine learning models.<br>
+# Andrew Photinakis
 
+**Software Engineer | Distributed Systems · Backend Engineering · AI/ML · High-Performance Computing**
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-photinakis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/acp_8103) 
+BS/MS Computer Science at **Rochester Institute of Technology (RIT)** · Former **Software Development Engineer Intern at Amazon Web Services (AWS)**
 
-# Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+I build backend and distributed systems, experiment with machine learning infrastructure, and explore performance-critical applications in quantitative finance. My interests include cloud networking, fault tolerance, parallel computing, and reliable simulation.
 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/junit-%23E33332.svg?style=for-the-badge&logo=junit5&logoColor=white)
-![PyTest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-photinakis)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/acphotinakis)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+## Engineering experience
 
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-%230078D4.svg?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+**Amazon Web Services (AWS) — Software Development Engineer Intern** · Summer 2026  
+*EC2 VPC Control Plane, AWS Infrastructure Services*
 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%230074C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
+- Worked on backend APIs and asynchronous orchestration for cloud networking infrastructure.
+- Developed control-plane functionality related to routing health and resource provisioning.
+- Explored multi-agent AI orchestration using LLMs and MCP-based integrations.
 
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Reinforcement%20Learning](https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F00.svg?style=for-the-badge)
-![Generative%20AI](https://img.shields.io/badge/Generative%20AI-%2300A67E.svg?style=for-the-badge)
+> Work performed at AWS is proprietary; this profile showcases independent and academic projects.
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=acphotinakis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=acphotinakis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=acphotinakis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Featured projects
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=acphotinakis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### [HPC-Blockchain — Parallel Blockchain Consensus Simulator](https://github.com/acphotinakis/HPC-Blockchain)
+**C++17 · MPI · OpenMP · Distributed Consensus**
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+A sharded blockchain simulation using PBFT-style consensus, MPI processes, and parallel transaction validation. Includes a serial baseline and instrumentation for throughput, latency, and speedup comparisons.
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=acphotinakis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Explore:** [Architecture, build instructions, and experiment setup](https://github.com/acphotinakis/HPC-Blockchain#readme)
 
----
-[![](https://visitcount.itsvg.in/api?id=acphotinakis&icon=0&color=0)](https://visitcount.itsvg.in)
+### [TradeSync — Trading Simulation Platform](https://github.com/acphotinakis/TradeSync)
+**Python · FastAPI · Next.js · Redis · WebSockets**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+A trading simulation project exploring market-data streaming, historical replay, strategy backtesting, and AI-assisted analysis. The repository documents the proposed service architecture and development roadmap; consult its source and setup instructions for current implementation status.
+
+**Explore:** [Project architecture and source](https://github.com/acphotinakis/TradeSync)
+
+### [ElasticNative-Cloud — Cloud Parallel Computing Research](https://github.com/acphotinakis/ElasticNative-Cloud)
+**Distributed Systems · Scheduling · Elasticity · Fault Tolerance**
+
+Research report examining heterogeneous scheduling, serverless elasticity, and fault-tolerant distributed LLM training. This is a technical research and synthesis project, not a production cloud platform.
+
+**Explore:** [Research report and references](https://github.com/acphotinakis/ElasticNative-Cloud)
+
+### [icmp-utils — Networking Utilities](https://github.com/acphotinakis/icmp-utils)
+**Computer Networking · Systems Programming**
+
+A networking-focused code repository. See the source for supported functionality and usage.
+
+**Explore:** [Source code](https://github.com/acphotinakis/icmp-utils)
+
+## Technical focus
+
+| Area | Technologies and topics |
+| --- | --- |
+| **Languages** | Python, C++, Java, TypeScript, SQL, Bash |
+| **Backend & APIs** | FastAPI, REST APIs, asynchronous workflows, WebSockets |
+| **Distributed systems** | MPI, parallel computing, consensus, fault tolerance |
+| **AI/ML** | PyTorch, scikit-learn, model training and evaluation |
+| **Infrastructure & data** | AWS, Docker, PostgreSQL, Redis |
+| **Frontend** | React, Next.js |
+
+## Currently exploring
+
+- **Correctness-preserving distributed simulation:** deterministic replay, partitioning, and event ordering.
+- **LLM training systems:** efficient data pipelines, batching, memory usage, and distributed execution.
+- **Quantitative engineering:** market microstructure data, backtesting infrastructure, and strategy evaluation.
+- **Quantum software benchmarking:** reproducible workloads and validation of benchmark submissions.
+
+## What you'll find here
+
+I use GitHub to document implementations, experiments, and research. For engineering projects, I aim to include the **problem, architecture, reproducible setup, tests, and measured results**, and to distinguish prototypes from production-ready software.
+
+**Contact:** [LinkedIn](https://linkedin.com/in/andrew-photinakis)
